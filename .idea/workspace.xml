@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3e1cf73d-c717-4b72-aea5-6fe3481e9a5e" name="更改" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Exception" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="customMavenHome" value="C:\Maven\apache-maven-3.9.11" />
+        <option name="localRepository" value="C:\Maven\maven-repository" />
+        <option name="mavenHomeTypeForPersistence" value="CUSTOM" />
+        <option name="userSettingsFile" value="C:\Maven\apache-maven-3.9.11\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="3B688T0LgAWFzVPdMuammw7fJgh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven.Unknown [clean].executor": "Run",
+    "Maven.Unknown [compile].executor": "Run",
+    "Maven.server [clean].executor": "Run",
+    "Maven.star-common [clean].executor": "Run",
+    "Maven.star-server [clean].executor": "Run",
+    "Maven.star-server [compile].executor": "Run",
+    "Maven.take-out [clean].executor": "Run",
+    "Maven.take-out [compile].executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.StarServerApplication.executor": "Run",
+    "Spring Boot.TakeOutApplication.executor": "Run",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/hdc/Desktop/Java Project/star-train-ticket-booking-system",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "run.configurations.included.in.services": "true",
+    "settings.editor.selected.configurable": "com.gitee.ui.GiteeSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hdc\Desktop\Java Project\star-train-ticket-booking-system\take-out\star-server\src\main\resources" />
+      <recent name="C:\Users\hdc\Desktop\Java Project\star-train-ticket-booking-system\take-out\star-pojo\src\main\resources" />
+      <recent name="C:\Users\hdc\Desktop\Java Project\star-train-ticket-booking-system\take-out\star-common\src\main\java\com\star" />
+      <recent name="C:\Users\hdc\Desktop\Java Project\star-train-ticket-booking-system\take-out\star-server\src\main\java\com\star\config" />
+      <recent name="C:\Users\hdc\Desktop\Java Project\star-train-ticket-booking-system\take-out\star-common\src\main\java\com\star\json" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.star.interceptor" />
+      <recent name="com.star.aspect" />
+      <recent name="com.star.annotation" />
+      <recent name="com.star.utils" />
+      <recent name="com.star.config" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="clean install -U" />
+      <command value="mvn clean" />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="KtorApplicationConfigurationType" />
+        <option value="MicronautRunConfigurationType" />
+        <option value="QuarkusRunConfigurationType" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="StarServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="star-server" />
+      <option name="PROGRAM_PARAMETERS" value="--spring.profiles.active=local" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.starserver.StarServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.25659.39" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.25659.39" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="3e1cf73d-c717-4b72-aea5-6fe3481e9a5e" name="更改" comment="" />
+      <created>1754110581890</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1754110581890</updated>
+      <workItem from="1773798001270" duration="1465000" />
+      <workItem from="1773920608609" duration="10340000" />
+      <workItem from="1773977559663" duration="704000" />
+      <workItem from="1774079461147" duration="12099000" />
+      <workItem from="1774162209250" duration="5517000" />
+      <workItem from="1774255681636" duration="2262000" />
+      <workItem from="1774359917434" duration="2680000" />
+      <workItem from="1774442659732" duration="2727000" />
+      <workItem from="1774526861187" duration="7270000" />
+      <workItem from="1774535433792" duration="173000" />
+      <workItem from="1774580391675" duration="2658000" />
+      <workItem from="1774595800385" duration="5018000" />
+      <workItem from="1774613191130" duration="7525000" />
+      <workItem from="1774701671991" duration="8343000" />
+      <workItem from="1774765914665" duration="8951000" />
+      <workItem from="1774865338543" duration="5502000" />
+      <workItem from="1774921873184" duration="1129000" />
+      <workItem from="1774956070746" duration="10882000" />
+      <workItem from="1775045483619" duration="3136000" />
+      <workItem from="1775048672638" duration="1516000" />
+      <workItem from="1775050225598" duration="89000" />
+      <workItem from="1775132759481" duration="3767000" />
+      <workItem from="1775269878422" duration="1260000" />
+      <workItem from="1775271182999" duration="1904000" />
+      <workItem from="1775289359775" duration="1315000" />
+      <workItem from="1775290777467" duration="2991000" />
+      <workItem from="1775295797151" duration="1403000" />
+      <workItem from="1775313315438" duration="2456000" />
+      <workItem from="1775377890087" duration="4507000" />
+      <workItem from="1775385787042" duration="1777000" />
+      <workItem from="1775444870207" duration="6321000" />
+      <workItem from="1775463948398" duration="7560000" />
+      <workItem from="1775560671054" duration="7035000" />
+      <workItem from="1775613015158" duration="1006000" />
+      <workItem from="1775646097869" duration="7286000" />
+      <workItem from="1775733340042" duration="12085000" />
+      <workItem from="1775786099105" duration="703000" />
+      <workItem from="1775809403757" duration="2317000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
