@@ -4,72 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e1cf73d-c717-4b72-aea5-6fe3481e9a5e" name="更改" comment="1">
-      <change afterPath="$PROJECT_DIR$/take-out/star-server/src/main/java/com/star/config/RedisConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/take-out/star-server/src/main/java/com/star/controller/admin/StockManageController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/take-out/star-server/src/main/java/com/star/service/TicketService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/take-out/star-server/src/main/java/com/star/service/impl/TicketServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/take-out/star-server/src/main/resources/lua/deduct_stock.lua" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/take-out/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/take-out/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/take-out/star-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/take-out/star-server/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/take-out/star-server/src/main/java/com/star/mapper/ScheduleMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/take-out/star-server/src/main/java/com/star/mapper/ScheduleMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/take-out/star-server/src/main/java/com/star/service/impl/PurchaseServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/take-out/star-server/src/main/java/com/star/service/impl/PurchaseServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/take-out/star-server/src/main/java/com/star/task/MyTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/take-out/star-server/src/main/java/com/star/task/MyTask.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/take-out/star-server/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/take-out/star-server/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/application-local.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/annotation/AutoFill.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/aspect/AutoFillAspect.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/config/WebMvcConfiguration.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/controller/admin/AdminOrderController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/controller/admin/AdminScheduleController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/controller/admin/AdminSelfController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/controller/admin/StationController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/controller/admin/TrainController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/controller/user/PurchaseController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/controller/user/RefundController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/controller/user/UserOrderController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/controller/user/UserScheduleStationController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/controller/user/UserSelfController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/handler/GlobalExceptionHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/interceptor/JwtTokenAdminInterceptor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/interceptor/JwtTokenUserInterceptor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/mapper/AdminOrderMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/mapper/AdminSelfMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/mapper/PurchaseMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/mapper/RefundMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/mapper/ScheduleMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/mapper/StationMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/mapper/TrainMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/mapper/UserMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/mapper/UserOrderMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/service/AdminOrderService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/service/AdminSelfService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/service/PurchaseService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/service/RefundService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/service/ScheduleService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/service/StationService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/service/TrainService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/service/UserOrderService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/service/UserScheduleStationService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/service/UserService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/service/impl/AdminOrderServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/service/impl/AdminSelfServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/service/impl/PurchaseServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/service/impl/RefundServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/service/impl/ScheduleServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/service/impl/StationServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/service/impl/TrainServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/service/impl/UserOrderServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/service/impl/UserScheduleStationStationServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/service/impl/UserServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/task/MyTask.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/starserver/StarServerApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/test-classes/com/starserver/StarServerApplicationTests.class" beforeDir="false" />
-    </list>
+    <list default="true" id="3e1cf73d-c717-4b72-aea5-6fe3481e9a5e" name="更改" comment="1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -260,7 +195,7 @@
       <workItem from="1775998306783" duration="2818000" />
       <workItem from="1776043932545" duration="4715000" />
       <workItem from="1776079665881" duration="641000" />
-      <workItem from="1776080933305" duration="3162000" />
+      <workItem from="1776080933305" duration="3472000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <option name="closed" value="true" />
@@ -270,7 +205,31 @@
       <option name="project" value="LOCAL" />
       <updated>1775811832490</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1">
+      <option name="closed" value="true" />
+      <created>1776084133870</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1776084133870</updated>
+    </task>
+    <task id="LOCAL-00003" summary="1">
+      <option name="closed" value="true" />
+      <created>1776084345756</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1776084345756</updated>
+    </task>
+    <task id="LOCAL-00004" summary="1">
+      <option name="closed" value="true" />
+      <created>1776084426280</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1776084426280</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
