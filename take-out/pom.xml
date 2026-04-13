@@ -29,6 +29,7 @@
         <springdoc.version>2.3.0</springdoc.version>
         <jjwt.version>0.11.5</jjwt.version>
         <knife4j.version>4.3.0</knife4j.version>
+        <commons-pool2.version>2.12.0</commons-pool2.version>
     </properties>
 
     <dependencyManagement>
@@ -123,6 +124,21 @@
                 <artifactId>star-server</artifactId>
                 <version>${project.version}</version>
             </dependency>
+
+            <!-- Spring Data Redis (默认使用 Lettuce) -->
+            <dependency>
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-starter-data-redis</artifactId>
+                <version>${spring-boot.version}</version>
+            </dependency>
+            <!-- 连接池支持 -->
+            <dependency>
+                <groupId>org.apache.commons</groupId>
+                <artifactId>commons-pool2</artifactId>
+                <version>${commons-pool2.version}</version>
+            </dependency>
+
+
         </dependencies>
     </dependencyManagement>
 

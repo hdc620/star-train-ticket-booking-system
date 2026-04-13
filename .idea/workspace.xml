@@ -4,7 +4,72 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e1cf73d-c717-4b72-aea5-6fe3481e9a5e" name="更改" comment="" />
+    <list default="true" id="3e1cf73d-c717-4b72-aea5-6fe3481e9a5e" name="更改" comment="1">
+      <change afterPath="$PROJECT_DIR$/take-out/star-server/src/main/java/com/star/config/RedisConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/take-out/star-server/src/main/java/com/star/controller/admin/StockManageController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/take-out/star-server/src/main/java/com/star/service/TicketService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/take-out/star-server/src/main/java/com/star/service/impl/TicketServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/take-out/star-server/src/main/resources/lua/deduct_stock.lua" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/take-out/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/take-out/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/take-out/star-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/take-out/star-server/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/take-out/star-server/src/main/java/com/star/mapper/ScheduleMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/take-out/star-server/src/main/java/com/star/mapper/ScheduleMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/take-out/star-server/src/main/java/com/star/service/impl/PurchaseServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/take-out/star-server/src/main/java/com/star/service/impl/PurchaseServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/take-out/star-server/src/main/java/com/star/task/MyTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/take-out/star-server/src/main/java/com/star/task/MyTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/take-out/star-server/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/take-out/star-server/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/application-local.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/annotation/AutoFill.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/aspect/AutoFillAspect.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/config/WebMvcConfiguration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/controller/admin/AdminOrderController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/controller/admin/AdminScheduleController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/controller/admin/AdminSelfController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/controller/admin/StationController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/controller/admin/TrainController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/controller/user/PurchaseController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/controller/user/RefundController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/controller/user/UserOrderController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/controller/user/UserScheduleStationController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/controller/user/UserSelfController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/handler/GlobalExceptionHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/interceptor/JwtTokenAdminInterceptor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/interceptor/JwtTokenUserInterceptor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/mapper/AdminOrderMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/mapper/AdminSelfMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/mapper/PurchaseMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/mapper/RefundMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/mapper/ScheduleMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/mapper/StationMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/mapper/TrainMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/mapper/UserMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/mapper/UserOrderMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/service/AdminOrderService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/service/AdminSelfService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/service/PurchaseService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/service/RefundService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/service/ScheduleService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/service/StationService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/service/TrainService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/service/UserOrderService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/service/UserScheduleStationService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/service/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/service/impl/AdminOrderServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/service/impl/AdminSelfServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/service/impl/PurchaseServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/service/impl/RefundServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/service/impl/ScheduleServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/service/impl/StationServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/service/impl/TrainServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/service/impl/UserOrderServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/service/impl/UserScheduleStationStationServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/service/impl/UserServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/task/MyTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/starserver/StarServerApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/test-classes/com/starserver/StarServerApplicationTests.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +84,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -36,49 +108,54 @@
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="3B688T0LgAWFzVPdMuammw7fJgh" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Maven.Unknown [clean].executor": "Run",
-    "Maven.Unknown [compile].executor": "Run",
-    "Maven.server [clean].executor": "Run",
-    "Maven.star-common [clean].executor": "Run",
-    "Maven.star-server [clean].executor": "Run",
-    "Maven.star-server [compile].executor": "Run",
-    "Maven.take-out [clean].executor": "Run",
-    "Maven.take-out [compile].executor": "Run",
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "Spring Boot.StarServerApplication.executor": "Run",
-    "Spring Boot.TakeOutApplication.executor": "Run",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/hdc/Desktop/Java Project/star-train-ticket-booking-system",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "模块",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "run.configurations.included.in.services": "true",
-    "settings.editor.selected.configurable": "com.gitee.ui.GiteeSettingsConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Maven.Unknown [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.Unknown [compile].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.server [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.star-common [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.star-server [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.star-server [compile].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.take-out [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.take-out [compile].executor&quot;: &quot;Run&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;Spring Boot.StarServerApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.TakeOutApplication.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/hdc/Desktop/Java Project/data-server&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;run.configurations.included.in.services&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.ignored.files&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "mysql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;,
+      &quot;redis&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="ReactorSettings">
     <option name="notificationShown" value="true" />
   </component>
@@ -177,11 +254,30 @@
       <workItem from="1775646097869" duration="7286000" />
       <workItem from="1775733340042" duration="12085000" />
       <workItem from="1775786099105" duration="703000" />
-      <workItem from="1775809403757" duration="2317000" />
+      <workItem from="1775809403757" duration="2780000" />
+      <workItem from="1775958398540" duration="3128000" />
+      <workItem from="1775996871787" duration="1396000" />
+      <workItem from="1775998306783" duration="2818000" />
+      <workItem from="1776043932545" duration="4715000" />
+      <workItem from="1776079665881" duration="641000" />
+      <workItem from="1776080933305" duration="3162000" />
     </task>
+    <task id="LOCAL-00001" summary="1">
+      <option name="closed" value="true" />
+      <created>1775811832490</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1775811832490</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
 </project>

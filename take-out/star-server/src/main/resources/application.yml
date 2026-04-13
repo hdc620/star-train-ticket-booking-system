@@ -7,6 +7,18 @@ spring:
     username: root
     password: ${DB_PASSWORD:}   # 从环境变量读取，本地运行时可通过IDEA配置填入
     driver-class-name: com.mysql.cj.jdbc.Driver
+  data:
+    redis:
+      host: localhost      # Redis服务器地址
+      port: 6380           # 端口
+      password: __REDACTED__           # 密码，生产环境请务必设置
+      database: 0          # 使用的数据库索引
+      lettuce:
+        pool:
+          max-active: 8    # 连接池最大连接数
+          max-idle: 8      # 最大空闲连接
+          min-idle: 0      # 最小空闲连接
+      timeout: 5000ms      # 连接超时时间
 
 mybatis-plus:
   mapper-locations: classpath:mapper/**/*.xml
@@ -23,6 +35,9 @@ com:
     user-secret-key: ${JWT_USER_SECRET:}
     user-ttl: 7200000
     user-token-name: authentication
+
+
+
 
 
      
