@@ -5,29 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e1cf73d-c717-4b72-aea5-6fe3481e9a5e" name="更改" comment="1">
-      <change afterPath="$PROJECT_DIR$/take-out/star-server/src/main/java/com/star/config/RedisConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/take-out/star-server/src/main/java/com/star/controller/admin/StockManageController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/take-out/star-server/src/main/java/com/star/service/TicketService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/take-out/star-server/src/main/java/com/star/service/impl/TicketServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/take-out/star-server/src/main/resources/lua/deduct_stock.lua" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/take-out/star-server/src/test/java/ConcurrentPurchaseTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/take-out/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/take-out/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/take-out/star-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/take-out/star-server/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/take-out/star-server/src/main/java/com/star/mapper/ScheduleMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/take-out/star-server/src/main/java/com/star/mapper/ScheduleMapper.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/take-out/star-server/src/main/java/com/star/service/impl/PurchaseServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/take-out/star-server/src/main/java/com/star/service/impl/PurchaseServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/take-out/star-server/src/main/java/com/star/task/MyTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/take-out/star-server/src/main/java/com/star/task/MyTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/take-out/star-server/src/main/resources/application-local.yml" beforeDir="false" afterPath="$PROJECT_DIR$/take-out/star-server/src/main/resources/application-local.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/take-out/star-server/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/take-out/star-server/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/application-local.yml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/application.yml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/annotation/AutoFill.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/aspect/AutoFillAspect.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/config/RedisConfig.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/config/WebMvcConfiguration.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/controller/admin/AdminOrderController.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/controller/admin/AdminScheduleController.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/controller/admin/AdminSelfController.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/controller/admin/StationController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/controller/admin/StockManageController.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/controller/admin/TrainController.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/controller/user/PurchaseController.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/controller/user/RefundController.class" beforeDir="false" />
@@ -52,6 +47,7 @@
       <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/service/RefundService.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/service/ScheduleService.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/service/StationService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/service/TicketService.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/service/TrainService.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/service/UserOrderService.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/service/UserScheduleStationService.class" beforeDir="false" />
@@ -62,12 +58,14 @@
       <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/service/impl/RefundServiceImpl.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/service/impl/ScheduleServiceImpl.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/service/impl/StationServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/service/impl/TicketServiceImpl.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/service/impl/TrainServiceImpl.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/service/impl/UserOrderServiceImpl.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/service/impl/UserScheduleStationStationServiceImpl.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/service/impl/UserServiceImpl.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/star/task/MyTask.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/com/starserver/StarServerApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/take-out/star-server/target/classes/lua/deduct_stock.lua" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/take-out/star-server/target/test-classes/com/starserver/StarServerApplicationTests.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -116,46 +114,47 @@
     <option name="showLibraryContents" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Maven.Unknown [clean].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.Unknown [compile].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.server [clean].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.star-common [clean].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.star-server [clean].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.star-server [compile].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.take-out [clean].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.take-out [compile].executor&quot;: &quot;Run&quot;,
-    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
-    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
-    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
-    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;Spring Boot.StarServerApplication.executor&quot;: &quot;Run&quot;,
-    &quot;Spring Boot.TakeOutApplication.executor&quot;: &quot;Run&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/hdc/Desktop/Java Project/data-server&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;run.configurations.included.in.services&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.ignored.files&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.ConcurrentPurchaseTest.executor": "Run",
+    "Maven.Unknown [clean].executor": "Run",
+    "Maven.Unknown [compile].executor": "Run",
+    "Maven.server [clean].executor": "Run",
+    "Maven.star-common [clean].executor": "Run",
+    "Maven.star-server [clean].executor": "Run",
+    "Maven.star-server [compile].executor": "Run",
+    "Maven.take-out [clean].executor": "Run",
+    "Maven.take-out [compile].executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "Spring Boot.StarServerApplication.executor": "Run",
+    "Spring Boot.TakeOutApplication.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/hdc/Desktop/Java Project/data-server",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "run.configurations.included.in.services": "true",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;mysql&quot;,
-      &quot;redis&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql",
+      "redis"
     ]
   }
-}</component>
+}]]></component>
   <component name="ReactorSettings">
     <option name="notificationShown" value="true" />
   </component>
@@ -175,6 +174,20 @@
       <recent name="com.star.config" />
     </key>
   </component>
+  <component name="RedisHelper">
+    <option name="connections">
+      <list>
+        <ConnectionInfo>
+          <option name="global" value="false" />
+          <option name="id" value="86f71c65-7522-449e-9cf0-ec2103ee8563" />
+          <option name="name" value="0@localhost" />
+          <option name="port" value="6380" />
+          <option name="url" value="localhost" />
+          <option name="user" value="default" />
+        </ConnectionInfo>
+      </list>
+    </option>
+  </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
       <command value="clean install -U" />
@@ -191,7 +204,16 @@
       </set>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Spring Boot.StarServerApplication">
+    <configuration name="ConcurrentPurchaseTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="star-server" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ConcurrentPurchaseTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StarServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="star-server" />
       <option name="PROGRAM_PARAMETERS" value="--spring.profiles.active=local" />
@@ -200,6 +222,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ConcurrentPurchaseTest" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -260,7 +287,14 @@
       <workItem from="1775998306783" duration="2818000" />
       <workItem from="1776043932545" duration="4715000" />
       <workItem from="1776079665881" duration="641000" />
-      <workItem from="1776080933305" duration="3162000" />
+      <workItem from="1776080933305" duration="3671000" />
+      <workItem from="1776085811953" duration="982000" />
+      <workItem from="1776149421990" duration="599000" />
+      <workItem from="1776167999279" duration="1519000" />
+      <workItem from="1776261407322" duration="2690000" />
+      <workItem from="1776408699371" duration="2949000" />
+      <workItem from="1776435935468" duration="3492000" />
+      <workItem from="1776483724778" duration="5531000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <option name="closed" value="true" />
@@ -270,7 +304,47 @@
       <option name="project" value="LOCAL" />
       <updated>1775811832490</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1">
+      <option name="closed" value="true" />
+      <created>1776084133870</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1776084133870</updated>
+    </task>
+    <task id="LOCAL-00003" summary="1">
+      <option name="closed" value="true" />
+      <created>1776084345756</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1776084345756</updated>
+    </task>
+    <task id="LOCAL-00004" summary="1">
+      <option name="closed" value="true" />
+      <created>1776084426280</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1776084426280</updated>
+    </task>
+    <task id="LOCAL-00005" summary="1">
+      <option name="closed" value="true" />
+      <created>1776084447694</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1776084447694</updated>
+    </task>
+    <task id="LOCAL-00006" summary="1">
+      <option name="closed" value="true" />
+      <created>1776263718657</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1776263718657</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

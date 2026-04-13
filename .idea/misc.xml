@@ -13,13 +13,6 @@
         <option value="$PROJECT_DIR$/take-out/star-server/pom.xml" />
       </list>
     </option>
-    <option name="ignoredFiles">
-      <set>
-        <option value="$PROJECT_DIR$/take-out/common/pom.xml" />
-        <option value="$PROJECT_DIR$/take-out/pojo/pom.xml" />
-        <option value="$PROJECT_DIR$/take-out/server/pom.xml" />
-      </set>
-    </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_23" default="true" project-jdk-name="23" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
